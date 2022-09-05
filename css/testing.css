@@ -18,4 +18,19 @@
 .remove {
     text-decoration: none;
 }
-
+.element {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.element.cooler {
+    font-size: 24px;
+}
+#unique {
+    color: blue;
+    font-size: 35px;
+}
+#veryunique {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
